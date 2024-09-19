@@ -5,3 +5,4 @@ Physics numerical simulations
 </p>
 
 ![wave _sim](https://github.com/catastropiyush/simulations/blob/main/wave_equation.gif)
+![wave _sim](https://github.com/catastropiyush/simulations/blob/main/gaussian_elimination.gif)
